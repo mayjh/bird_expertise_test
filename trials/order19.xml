@@ -1,0 +1,1131 @@
+<?xml version="1.1" encoding="ISO-8859-1"?>
+<experiment>
+	<trial>
+		<level>Practice</level>
+		<bird>Turkey Vulture</bird>
+		<dir>Practice/06_Turkey Vulture</dir>
+		<image>C_Hawks - Turkey Vulture - 002 - s000 - crop - col.jpg</image>
+		<choices>
+			<option>Turkey Vulture</option>
+			<option>Northern Harrier</option>
+			<option>Ferruginous Hawk</option>
+			<option>Parasitic Jaeger</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Practice</level>
+		<bird>Great Blue Heron</bird>
+		<dir>Practice/10_Great Blue Heron</dir>
+		<image>F_Herons - Great Blue Heron - 018 - s000 - crop - col.jpg</image>
+		<choices>
+			<option>Great Blue Heron</option>
+			<option>Cattle Egret</option>
+			<option>American Avocet</option>
+			<option>Anhinga</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Practice</level>
+		<bird>Barn Owl</bird>
+		<dir>Practice/01_Barn Owl</dir>
+		<image>F_Barn-owls - Common Barn-Owl - 013 - s076 - crop - col.jpg</image>
+		<choices>
+			<option>Barn Owl</option>
+			<option>Barred Owl</option>
+			<option>Common Poorwill</option>
+			<option>American Bittern</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Practice</level>
+		<bird>Osprey</bird>
+		<dir>Practice/08_Osprey</dir>
+		<image>B_Hawks - Osprey - 005 - s000 - crop - col.jpg</image>
+		<choices>
+			<option>Osprey</option>
+			<option>Golden Eagle</option>
+			<option>Crested Caracara</option>
+			<option>Ruffed Grouse</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Practice</level>
+		<bird>Bald Eagle</bird>
+		<dir>Practice/03_Bald Eagle</dir>
+		<image>F_Hawks - Bald Eagle - 001 - s000 - m - a - crop - col.jpg</image>
+		<choices>
+			<option>Bald Eagle</option>
+			<option>Golden Eagle</option>
+			<option>Broad-winged Hawk</option>
+			<option>Great Egret</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Practice</level>
+		<bird>Canada Goose</bird>
+		<dir>Practice/04_Canada Goose</dir>
+		<image>A_Ducks - Canada Goose - 012 - s078 - f - crop - col.jpg</image>
+		<choices>
+			<option>Canada Goose</option>
+			<option>Brant</option>
+			<option>Common Loon</option>
+			<option>Sanderling</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Practice</level>
+		<bird>Greater Roadrunner</bird>
+		<dir>Practice/02_Greater Roadrunner</dir>
+		<image>C_Cuckoos - Greater Roadrunner - 005 - s010 - crop - col.jpg</image>
+		<choices>
+			<option>Greater Roadrunner</option>
+			<option>Black-billed Cuckoo</option>
+			<option>Northern Bobwhite</option>
+			<option>Ruddy Turnstone</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Practice</level>
+		<bird>Wood Duck</bird>
+		<dir>Practice/05_Wood Duck</dir>
+		<image>D_Ducks - Wood Duck - 008 - s000 - crop - col.jpg</image>
+		<choices>
+			<option>Wood Duck</option>
+			<option>Harlequin Duck</option>
+			<option>Pied-billed Grebe</option>
+			<option>Bridled Tern</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Practice</level>
+		<bird>Killdeer</bird>
+		<dir>Practice/09_Killdeer</dir>
+		<image>F_Shorebirds - Killdeer - 003 - s000 - crop - col.jpg</image>
+		<choices>
+			<option>Killdeer</option>
+			<option>Piping Plover</option>
+			<option>Willet</option>
+			<option>Herring Gull</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Novice</level>
+		<bird>American Goldfinch</bird>
+		<dir>Novice/07_American Goldfinch</dir>
+		<image>F_Finches - American Goldfinch  - 005 - s001 - crop - col.jpg</image>
+		<choices>
+			<option>American Goldfinch</option>
+			<option>House Finch</option>
+			<option>Yellow Grosbeak</option>
+			<option>Summer Tanager</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Beginner</level>
+		<bird>Carolina Wren</bird>
+		<dir>Beginner/02_Carolina Wren</dir>
+		<image>F_Wrens - Carolina Wren - 012 - s010 - crop - col.jpg</image>
+		<choices>
+			<option>Carolina Wren</option>
+			<option>Cactus Wren</option>
+			<option>Ovenbird</option>
+			<option>Tufted Titmouse</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Novice</level>
+		<bird>Baltimore Oriole</bird>
+		<dir>Novice/04_Baltimore Oriole</dir>
+		<image>E_Blackbirds - Baltimore Oriole - 007 - s001 - crop - col.jpg</image>
+		<choices>
+			<option>Baltimore Oriole</option>
+			<option>Eastern Meadowlark</option>
+			<option>Blackburnian Warbler</option>
+			<option>Black-capped Chickadee</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Novice</level>
+		<bird>Northern Cardinal</bird>
+		<dir>Novice/02_Northern Cardinal</dir>
+		<image>B_Cardinals and Grosbeaks - Northern Cardinal - 002 - s000 - crop - col.jpg</image>
+		<choices>
+			<option>Northern Cardinal</option>
+			<option>Painted Bunting</option>
+			<option>Scarlet Tanager</option>
+			<option>Mountain Chickadee</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Intermediate</level>
+		<bird>Western Tanager</bird>
+		<dir>Intermediate/04_Western Tanager</dir>
+		<image>E_ardinals and Grosbeaks - Western Tanager - 012 - s010 - crop - col.jpg</image>
+		<choices>
+			<option>Western Tanager</option>
+			<option>Hepatic Tanager</option>
+			<option>Painted Bunting</option>
+			<option>Varied Bunting</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Novice</level>
+		<bird>Mourning Dove</bird>
+		<dir>Novice/05_Mourning Dove</dir>
+		<image>F_Pigeons and Doves - Mourning Dove - 001 - s000 - crop - col.jpg</image>
+		<choices>
+			<option>Mourning Dove</option>
+			<option>Rock Pigeon</option>
+			<option>Loggerhead Shrike</option>
+			<option>Lark Sparrow</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Intermediate</level>
+		<bird>Cactus Wren</bird>
+		<dir>Intermediate/05_Cactus Wren</dir>
+		<image>F_Wrens - Cactus Wren - 002 - s000 - crop - col.jpg</image>
+		<choices>
+			<option>Cactus Wren</option>
+			<option>Carolina Wren</option>
+			<option>Abert's Towhee</option>
+			<option>Fox Sparrow</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Novice</level>
+		<bird>American Robin</bird>
+		<dir>Novice/06_American Robin</dir>
+		<image>E_Thrushes - American Robin - 005 - s000 - crop - col.jpg</image>
+		<choices>
+			<option>American Robin</option>
+			<option>Swainson's Thrush</option>
+			<option>Lazuli Bunting</option>
+			<option>Song Sparrow</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Beginner</level>
+		<bird>American Tree Sparrow</bird>
+		<dir>Beginner/08_American Tree Sparrow</dir>
+		<image>F_New World Sparrows - American Tree Sparrow - 012 - s010 - crop - col.jpg</image>
+		<choices>
+			<option>American Tree Sparrow</option>
+			<option>Spotted Towhee</option>
+			<option>Western Meadowlark</option>
+			<option>Western Scrub-Jay</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Beginner</level>
+		<bird>House Finch</bird>
+		<dir>Beginner/01_House Finch</dir>
+		<image>F_Finches - House Finch - 005 - s000 - crop - col.jpg</image>
+		<choices>
+			<option>House Finch</option>
+			<option>Common Redpoll</option>
+			<option>Flame-colored Tanager</option>
+			<option>Crissal Thrasher</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Advanced</level>
+		<bird>Yellow-breasted Chat</bird>
+		<dir>Advanced/12_Yellow-breasted Chat</dir>
+		<image>D_Wood-warblers - Yellow-breasted Chat - 001 - s000 - crop - col.jpg</image>
+		<choices>
+			<option>Yellow-breasted Chat</option>
+			<option>Common Yellowthroat</option>
+			<option>Wilson's Warbler</option>
+			<option>Mourning Warbler</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Beginner</level>
+		<bird>Western Scrub Jay</bird>
+		<dir>Beginner/10_Western Scrub Jay</dir>
+		<image>E_Jays, Magpies, and Crows - Western Scrub-Jay - 003 - s001 - crop - col.jpg</image>
+		<choices>
+			<option>Western Scrub Jay</option>
+			<option>Steller's Jay</option>
+			<option>Indigo Bunting</option>
+			<option>Great Kiskadee</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Beginner</level>
+		<bird>Red-bellied Woodpecker</bird>
+		<dir>Beginner/05_Red-bellied Woodpecker</dir>
+		<image>A_Woodpeckers - Red-Bellied Woodpecker - 002 - s000 - crop - col.jpg</image>
+		<choices>
+			<option>Red-bellied Woodpecker</option>
+			<option>Pileated Woodpecker</option>
+			<option>Vermillion Flycatcher</option>
+			<option>Northern Mockingbird</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Beginner</level>
+		<bird>Northern Flicker</bird>
+		<dir>Beginner/03_Northern Flicker</dir>
+		<image>H_Woodpeckers - Northern Flicker - 003 - s000 - crop - col.jpg</image>
+		<choices>
+			<option>Northern Flicker</option>
+			<option>Yellow-bellied Sapsucker</option>
+			<option>Brown Thrasher</option>
+			<option>House Sparrow</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Beginner</level>
+		<bird>Red-winged Blackbird</bird>
+		<dir>Beginner/09_Red-winged Blackbird</dir>
+		<image>F_Blackbird - Red-Winged Blackbird - 010 - s002 - m - j - summer - crop - col.jpg</image>
+		<choices>
+			<option>Red-winged Blackbird</option>
+			<option>Common Grackle</option>
+			<option>American Redstart</option>
+			<option>Scott's Oriole</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Advanced</level>
+		<bird>Indigo Bunting</bird>
+		<dir>Advanced/08_Indigo Bunting</dir>
+		<image>B_Cardinals and Grosbeaks - Indigo Bunting - 004 - s000 - crop - col.jpg</image>
+		<choices>
+			<option>Indigo Bunting</option>
+			<option>Blue Grosbeak</option>
+			<option>Eastern Bluebird</option>
+			<option>Lazuli Bunting</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Intermediate</level>
+		<bird>Blue Grosbeak</bird>
+		<dir>Intermediate/15_Blue Grosbeak</dir>
+		<image>B_Cardinals and Grosbeaks - Blue Grosbeak - 002 - s001 - crop - col.jpg</image>
+		<choices>
+			<option>Blue Grosbeak</option>
+			<option>Indigo Bunting</option>
+			<option>Blue Jay</option>
+			<option>Cerulean Warbler</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Beginner</level>
+		<bird>Steller's Jay</bird>
+		<dir>Beginner/04_Steller's Jay</dir>
+		<image>D_Jays, Magpies, and Crows - Steller's Jay - 001 - s000 - crop - col.jpg</image>
+		<choices>
+			<option>Steller's Jay</option>
+			<option>Blue Jay</option>
+			<option>Blue Grosbeak</option>
+			<option>Hermit Warbler</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Beginner</level>
+		<bird>Brown-headed Cowbird</bird>
+		<dir>Beginner/06_Brown-headed Cowbird</dir>
+		<image>B_Blackbirds - Brown-Headed Cowbird - 008 - s000 - crop - col.jpg</image>
+		<choices>
+			<option>Brown-headed Cowbird</option>
+			<option>Baltimore Oriole</option>
+			<option>Song Sparrow</option>
+			<option>Cape May Warbler</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Intermediate</level>
+		<bird>Phainopepla</bird>
+		<dir>Intermediate/06_Phainopepla</dir>
+		<image>B_Silky-Flycatchers - Phainopepla - 003 - s000 - m - a -crop - col.jpg</image>
+		<choices>
+			<option>Phainopepla</option>
+			<option>Pyrrhuloxia</option>
+			<option>Cedar Waxwing</option>
+			<option>Northern Cardinal</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Intermediate</level>
+		<bird>Pyrrhuloxia</bird>
+		<dir>Intermediate/13_Pyrrhuloxia</dir>
+		<image>A_Cardinals and Grosbeaks - Pyrrhuloxia - 005 - s005 - m - crop - col.jpg</image>
+		<choices>
+			<option>Pyrrhuloxia</option>
+			<option>Northern Cardinal</option>
+			<option>Scarlet Tanager</option>
+			<option>Bobolink</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Intermediate</level>
+		<bird>Great Kiskadee</bird>
+		<dir>Intermediate/09_Great Kiskadee</dir>
+		<image>C_Flycatchers - Kiskadee Flycatcher (Greater Kiskadee) - 003 - s000 - crop - col.jpg</image>
+		<choices>
+			<option>Great Kiskadee</option>
+			<option>Say's Phoebe</option>
+			<option>Yellow-throated Vireo</option>
+			<option>Brewer's Sparrow</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Intermediate</level>
+		<bird>Black-billed Magpie</bird>
+		<dir>Intermediate/11_Black-billed Magpie</dir>
+		<image>D_Jays, Magpies, and Crows - Black-billed Magpie - 013 - s010 - crop - col.jpg</image>
+		<choices>
+			<option>Black-billed Magpie</option>
+			<option>American Crow</option>
+			<option>Brewer's Blackbird</option>
+			<option>Lark Bunting</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Advanced</level>
+		<bird>Bridled Titmouse</bird>
+		<dir>Advanced/16_Bridled Titmouse</dir>
+		<image>B_Chickadees and Titmice - Bridled Titmouse - 003 - s000 - crop - col.jpg</image>
+		<choices>
+			<option>Bridled Titmouse</option>
+			<option>Tufted Titmouse</option>
+			<option>Mountain Chickadee</option>
+			<option>Black-crested Titmouse</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Advanced</level>
+		<bird>Prothonotary Warbler</bird>
+		<dir>Advanced/02_Prothonotary Warbler</dir>
+		<image>C_Wood-warblers - Prothonotary Warbler - 001 - s000 - crop - col.jpg</image>
+		<choices>
+			<option>Prothonotary Warbler</option>
+			<option>Yellow Warbler</option>
+			<option>Prairie Warbler</option>
+			<option>Wilson's Warbler</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Intermediate</level>
+		<bird>Painted Bunting</bird>
+		<dir>Intermediate/03_Painted Bunting</dir>
+		<image>E_Cardinals and Grosbeaks - Painted Bunting - 004 - s000 - crop - col.jpg</image>
+		<choices>
+			<option>Painted Bunting</option>
+			<option>Lazuli Bunting</option>
+			<option>Hooded Oriole</option>
+			<option>Rose-breasted Grosbeak</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Intermediate</level>
+		<bird>Cerulean Warbler</bird>
+		<dir>Intermediate/08_Cerulean Warbler</dir>
+		<image>C_Wood-Warblers - Cerulean Warbler - 007 - s000 - crop - col.jpg</image>
+		<choices>
+			<option>Cerulean Warbler</option>
+			<option>Tropical Parula</option>
+			<option>Black throated Blue Warbler</option>
+			<option>Collared Whitestart</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Advanced</level>
+		<bird>Scott's Oriole</bird>
+		<dir>Advanced/09_Scott's Oriole</dir>
+		<image>B_Blackbirds - Scott's Oriole - 002 - s000 - crop - col.jpg</image>
+		<choices>
+			<option>Scott's Oriole</option>
+			<option>Audubon's Oriole</option>
+			<option>Orchard Oriole</option>
+			<option>Bullock's Oriole</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Advanced</level>
+		<bird>Bullock's Oriole</bird>
+		<dir>Advanced/05_Bullock's Oriole</dir>
+		<image>B_Blackbirds - Bullock's Oriole - 007 - s000 - crop - col.jpg</image>
+		<choices>
+			<option>Bullock's Oriole</option>
+			<option>Baltimore Oriole</option>
+			<option>Audubon's Oriole</option>
+			<option>Altamira Oriole</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Expert</level>
+		<bird>Ovenbird</bird>
+		<dir>Expert/03_Ovenbird</dir>
+		<image>C_Wood-warblers - Ovenbird - 012 - s010 - crop - col.jpg</image>
+		<choices>
+			<option>Ovenbird</option>
+			<option>Northern Waterthrush</option>
+			<option>Lark Sparrow</option>
+			<option>Louisiana Waterthrush</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Expert</level>
+		<bird>Townsend's Warbler</bird>
+		<dir>Expert/01_Townsend's Warbler</dir>
+		<image>D_Wood-warblers - Townsends's Warbler - 005 - s000 - crop - col.jpg</image>
+		<choices>
+			<option>Townsend's Warbler</option>
+			<option>Black-throated Green Warbler</option>
+			<option>Blackburnian Warbler</option>
+			<option>Magnolia Warbler</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Intermediate</level>
+		<bird>Wood Thrush</bird>
+		<dir>Intermediate/01_Wood Thrush</dir>
+		<image>E_Thrushes - Wood Thrush - 012 - s010 - crop - col.jpg</image>
+		<choices>
+			<option>Wood Thrush</option>
+			<option>Varied Thrush</option>
+			<option>American Pipit</option>
+			<option>Spragues's Pipit</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Advanced</level>
+		<bird>Blackburnian Warbler</bird>
+		<dir>Advanced/01_Blackburnian Warbler</dir>
+		<image>D_Wood-warblers - Blackburnian Warbler - 003 - s000 - crop - col.jpg</image>
+		<choices>
+			<option>Blackburnian Warbler</option>
+			<option>Bay-breasted Warbler</option>
+			<option>Magnolia Warbler</option>
+			<option>Palm Warbler</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Advanced</level>
+		<bird>Acorn Woodpecker</bird>
+		<dir>Advanced/07_Acorn Woodpecker</dir>
+		<image>C_Woodpeckers - Acorn Woodpecker - 012 - s010 - crop - col.jpg</image>
+		<choices>
+			<option>Acorn Woodpecker</option>
+			<option>Red-headed Woodpecker</option>
+			<option>Gila Woodpecker</option>
+			<option>Yellow-bellied Sapsucker</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Beginner</level>
+		<bird>Bushtit</bird>
+		<dir>Beginner/07_Bushtit</dir>
+		<image>E_Bushtits - Bushtit - 013 - s010 - f - crop - col.jpg</image>
+		<choices>
+			<option>Bushtit</option>
+			<option>Verdin</option>
+			<option>Swamp Sparrow</option>
+			<option>Painted Bunting</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Intermediate</level>
+		<bird>Clark's Nutcracker</bird>
+		<dir>Intermediate/07_Clark's Nutcracker</dir>
+		<image>D_Jays, Magpies, and Crows - Clark's Nutcracker - 003 - s001 - crop - col.jpg</image>
+		<choices>
+			<option>Clark's Nutcracker</option>
+			<option>Pinyon Jay</option>
+			<option>Bridled Titmouse</option>
+			<option>Scott's Oriole</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Expert</level>
+		<bird>Canyon Wren</bird>
+		<dir>Expert/103_Canyon Wren</dir>
+		<image>Canyon Wren2.jpg</image>
+		<choices>
+			<option>Canyon Wren</option>
+			<option>Rock Wren</option>
+			<option>Winter Wren</option>
+			<option>Sedge Wren</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Intermediate</level>
+		<bird>Pileated Woodpecker</bird>
+		<dir>Intermediate/10_Pileated Woodpecker</dir>
+		<image>G_Woodpeckers - Pileated Woodpecker - 013 - s010 - crop - col.jpg</image>
+		<choices>
+			<option>Pileated Woodpecker</option>
+			<option>Downy Woodpecker</option>
+			<option>Black-billed Magpie</option>
+			<option>Townsend's Solitaire</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Novice</level>
+		<bird>Rock Pigeon</bird>
+		<dir>Novice/10_Rock Pigeon</dir>
+		<image>A_Pigeons and Doves - Rock Pigeon (Rock Dove) - 001 - s000 - m - a - crop - col.jpg</image>
+		<choices>
+			<option>Rock Pigeon</option>
+			<option>Mourning Dove</option>
+			<option>Least Flycatcher</option>
+			<option>Cape May Warbler</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Intermediate</level>
+		<bird>Belted Kingfisher</bird>
+		<dir>Intermediate/12_Belted Kingfisher</dir>
+		<image>A_Kingfisher - Belted Kingfisher - 003 - s000 - crop - col.jpg</image>
+		<choices>
+			<option>Belted Kingfisher</option>
+			<option>Bridled Titmouse</option>
+			<option>Phainopepla</option>
+			<option>Great Crested Flycatcher</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Expert</level>
+		<bird>Varied Thrush</bird>
+		<dir>Expert/105_Varied Thrush</dir>
+		<image>Varied Thrush1.jpg</image>
+		<choices>
+			<option>Varied Thrush</option>
+			<option>American Robin</option>
+			<option>Veery</option>
+			<option>Swainson's Thrush</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Expert</level>
+		<bird>Chipping Sparrow</bird>
+		<dir>Expert/08_Chipping Sparrow</dir>
+		<image>B_New World Sparrows - Chipping Sparrow - 005 - s000 - crop - col.jpg</image>
+		<choices>
+			<option>Chipping Sparrow</option>
+			<option>American Tree Sparrow</option>
+			<option>Clay-colored Sparrow</option>
+			<option>Field Sparrow</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Intermediate</level>
+		<bird>American Redstart</bird>
+		<dir>Intermediate/02_American Redstart</dir>
+		<image>D_Wood-Warblers - American Redstart - 005 - s001 - crop - col.jpg</image>
+		<choices>
+			<option>American Redstart</option>
+			<option>Altamira Oriole</option>
+			<option>Cape May Warbler</option>
+			<option>Ovenbird</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Novice</level>
+		<bird>Blue Jay</bird>
+		<dir>Novice/09_Blue Jay</dir>
+		<image>B_Jays, Magpies, and Crows - Blue Jay - 004 - s000 - crop - col.jpg</image>
+		<choices>
+			<option>Blue Jay</option>
+			<option>Clark's Nutcracker</option>
+			<option>Mountain Bluebird</option>
+			<option>Carolina Wren</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Advanced</level>
+		<bird>Brown Creeper</bird>
+		<dir>Advanced/19_Brown Creeper</dir>
+		<image>F_Creepers - Brown Creeper - 002 - s000 - crop - col.jpg</image>
+		<choices>
+			<option>Brown Creeper</option>
+			<option>Canyon Wren</option>
+			<option>Bewick's Wren</option>
+			<option>Cactus Wren</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Advanced</level>
+		<bird>Bobolink</bird>
+		<dir>Advanced/18_Bobolink</dir>
+		<image>F_Blackbirds - Bobolink - 003 - s000 - crop - col.jpg</image>
+		<choices>
+			<option>Bobolink</option>
+			<option>Lark Bunting</option>
+			<option>Eastern Meadowlark</option>
+			<option>Yellow-headed Blackbird</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Expert</level>
+		<bird>Black-and-white Warbler</bird>
+		<dir>Expert/107_Black-and-white Warbler</dir>
+		<image>Black-and-white Warbler3.jpg</image>
+		<choices>
+			<option>Black-and-white Warbler</option>
+			<option>White-breasted Nuthatch</option>
+			<option>Red-breasted Nuthatch</option>
+			<option>Brown-headed Nuthatch</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Advanced</level>
+		<bird>Summer Tanager</bird>
+		<dir>Advanced/15_Summer Tanager</dir>
+		<image>D_Cardinals - Summer Tanager - 013 - s010 - crop - col.jpg</image>
+		<choices>
+			<option>Summer Tanager</option>
+			<option>Scarlet Tanager</option>
+			<option>Hepatic Tanager</option>
+			<option>Flame-colored Tanager</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Expert</level>
+		<bird>Wilson's Warbler</bird>
+		<dir>Expert/14_Wilson's Warbler</dir>
+		<image>E_Wood-warblers - Wilson's Warbler - 004 - s001 - crop - col.jpg</image>
+		<choices>
+			<option>Wilson's Warbler</option>
+			<option>Yellow Warbler</option>
+			<option>Hooded Warbler</option>
+			<option>Common Yellowthroat</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Expert</level>
+		<bird>White-breasted Nuthatch</bird>
+		<dir>Expert/109_White-breasted Nuthatch</dir>
+		<image>White-breasted Nuthatch3.jpg</image>
+		<choices>
+			<option>White-breasted Nuthatch</option>
+			<option>Tufted Titmouse</option>
+			<option>Pygmy Nuthatch</option>
+			<option>Carolina Chickadee</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Expert</level>
+		<bird>Verdin</bird>
+		<dir>Expert/102_Verdin</dir>
+		<image>Verdin2.jpg</image>
+		<choices>
+			<option>Verdin</option>
+			<option>Lucy's Warbler</option>
+			<option>Bushtit</option>
+			<option>Blue-gray Gnatcatchers</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Expert</level>
+		<bird>Veery</bird>
+		<dir>Expert/07_Veery</dir>
+		<image>F_Thrushes - Veery - 002 - s001 - crop - col.jpg</image>
+		<choices>
+			<option>Veery</option>
+			<option>Swainson's Thrush</option>
+			<option>Wood Thrush</option>
+			<option>Hermit Thrush</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Novice</level>
+		<bird>European Starling</bird>
+		<dir>Novice/03_European Starling</dir>
+		<image>E_Starlings - European Starling - 011 - s000 - crop - col.jpg</image>
+		<choices>
+			<option>European Starling</option>
+			<option>Common Raven</option>
+			<option>Lark Bunting</option>
+			<option>Pine Grosbeak</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Expert</level>
+		<bird>White-crowned Sparrow</bird>
+		<dir>Expert/06_White-crowned Sparrow</dir>
+		<image>B_Sparrows - White-crowned Sparrow - 003 - s000 - crop - col.jpg</image>
+		<choices>
+			<option>White-crowned Sparrow</option>
+			<option>White-throated Sparrow</option>
+			<option>Song Sparrow</option>
+			<option>Swamp Sparrow</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Expert</level>
+		<bird>Spotted Towhee</bird>
+		<dir>Expert/118_Spotted Towhee</dir>
+		<image>Spotted Towhee1.jpg</image>
+		<choices>
+			<option>Spotted Towhee</option>
+			<option>Eastern Towhee</option>
+			<option>Baltimore Oriole</option>
+			<option>American Redstart</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Expert</level>
+		<bird>Blue-headed Vireo</bird>
+		<dir>Expert/11_Blue-headed Vireo</dir>
+		<image>B_Vireos - Blue-headed Vireo - 001 - s001 - crop - col.jpg</image>
+		<choices>
+			<option>Blue-headed Vireo</option>
+			<option>Warbling Vireo</option>
+			<option>Hutton's Vireo</option>
+			<option>Cassin's Vireo</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Intermediate</level>
+		<bird>Vermilion Flycatcher</bird>
+		<dir>Intermediate/14_Vermilion Flycatcher</dir>
+		<image>F_Tyrant Flycatcher - Vermilion Flycatcher - 013 - s010 - f - crop - col.jpg</image>
+		<choices>
+			<option>Vermilion Flycatcher</option>
+			<option>Say's Phoebe</option>
+			<option>Great Kiskadee</option>
+			<option>Scarlet Tanager</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Expert</level>
+		<bird>Hermit Thrush</bird>
+		<dir>Expert/116_Hermit Thrush</dir>
+		<image>Hermit Thrush1.jpg</image>
+		<choices>
+			<option>Hermit Thrush</option>
+			<option>Swainson's Thrush</option>
+			<option>Veery</option>
+			<option>Wood Thrush</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Expert</level>
+		<bird>Pygmy Nuthatch</bird>
+		<dir>Expert/110_Pygmy Nuthatch</dir>
+		<image>Pygmy Nuthatch1.jpg</image>
+		<choices>
+			<option>Pygmy Nuthatch</option>
+			<option>White-breasted Nuthatch</option>
+			<option>Brown-headed Nuthatch</option>
+			<option>Bushtit</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Expert</level>
+		<bird>Western Wood-Pewee</bird>
+		<dir>Expert/19_Western Wood-Pewee</dir>
+		<image>A_Tyrant Flycatchers - Western Wood-Pewee - 002 - s001 - crop - col.jpg</image>
+		<choices>
+			<option>Western Wood-Pewee</option>
+			<option>Eastern Phoebe</option>
+			<option>Greater Pewee</option>
+			<option>Olive-sided Flycatcher</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Advanced</level>
+		<bird>Common Raven</bird>
+		<dir>Advanced/13_Common Raven</dir>
+		<image>D_Jays, Magpies, and Crows - Common Raven - 005 - s000 - m - a - crop - col.jpg</image>
+		<choices>
+			<option>Common Raven</option>
+			<option>American Crow</option>
+			<option>Fish Crow</option>
+			<option>Gray Jay</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Expert</level>
+		<bird>Brown-headed Nuthatch</bird>
+		<dir>Expert/111_Brown-headed Nuthatch</dir>
+		<image>Brown-headed Nuthatch1.jpg</image>
+		<choices>
+			<option>Brown-headed Nuthatch</option>
+			<option>Pygmy Nuthatch</option>
+			<option>Red-breasted Nuthatch</option>
+			<option>Brown Creeper</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Expert</level>
+		<bird>Eastern Towhee</bird>
+		<dir>Expert/18_Eastern Towhee</dir>
+		<image>D_New World Sparrows - Eastern Towhee - 012 - s010 - m - crop - col.jpg</image>
+		<choices>
+			<option>Eastern Towhee</option>
+			<option>Spotted Towhee</option>
+			<option>Lark Sparrow</option>
+			<option>Black-headed Grosbeak</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Novice</level>
+		<bird>Northern Mockingbird</bird>
+		<dir>Novice/01_Northern Mockingbird</dir>
+		<image>D_Mockingbirds and Thrashers - Northern Mockingbird - 002 - s000 - crop - col.jpg</image>
+		<choices>
+			<option>Northern Mockingbird</option>
+			<option>Brown Thrasher</option>
+			<option>Gray Catbird</option>
+			<option>Barn Swallow</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Expert</level>
+		<bird>Evening Grosbeak</bird>
+		<dir>Expert/104_Evening Grosbeak</dir>
+		<image>Evening Grosbeak1.jpg</image>
+		<choices>
+			<option>Evening Grosbeak</option>
+			<option>American Goldfinch</option>
+			<option>Pine Grosbeak</option>
+			<option>Purple Finch</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Expert</level>
+		<bird>Purple Martin</bird>
+		<dir>Expert/09_Purple Martin</dir>
+		<image>D_Swallows - Purple Martin - 001 - s001 - crop - col.jpg</image>
+		<choices>
+			<option>Purple Martin</option>
+			<option>Tree Swallow</option>
+			<option>Common Grackle</option>
+			<option>Barn Swallow</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Expert</level>
+		<bird>Lawrence's Goldfinch</bird>
+		<dir>Expert/114_Lawrence's Goldfinch</dir>
+		<image>Lawrence's Goldfinch1.jpg</image>
+		<choices>
+			<option>Lawrence's Goldfinch</option>
+			<option>Lesser Goldfinch</option>
+			<option>American Goldfinch</option>
+			<option>Evening Grosbeak</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Expert</level>
+		<bird>Yellow-bellied Sapsucker</bird>
+		<dir>Expert/17_Yellow-bellied Sapsucker</dir>
+		<image>A_Woodpeckers - Yellow-bellied Sapsucker - 004 - s000 - crop - col.jpg</image>
+		<choices>
+			<option>Yellow-bellied Sapsucker</option>
+			<option>Red-Naped Sapsucker</option>
+			<option>Golden-fronted Woodpecker</option>
+			<option>Ladder-backed Woodpecker</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Expert</level>
+		<bird>Townsend's Solitaire</bird>
+		<dir>Expert/106_Townsend's Solitaire</dir>
+		<image>Townsend's Solitaire3.jpg</image>
+		<choices>
+			<option>Townsend's Solitaire</option>
+			<option>Mountain bluebird</option>
+			<option>Northern Shrike</option>
+			<option>Gray-cheeked Thrush</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Expert</level>
+		<bird>Winter Wren</bird>
+		<dir>Expert/117_Winter Wren</dir>
+		<image>Winter Wren2.jpg</image>
+		<choices>
+			<option>Winter Wren</option>
+			<option>House Wren</option>
+			<option>Bewick's Wren</option>
+			<option>Marsh Wren</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Expert</level>
+		<bird>Golden-fronted Woodpecker</bird>
+		<dir>Expert/13_Golden-fronted Woodpecker</dir>
+		<image>A_Woodpecker - Golden-fronted Woodpecker - 001 - s000 - crop - col.jpg</image>
+		<choices>
+			<option>Golden-fronted Woodpecker</option>
+			<option>Red-bellied Woodpecker</option>
+			<option>Gila Woodpecker</option>
+			<option>Red-headed Woodpecker</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Expert</level>
+		<bird>White-winged Dove</bird>
+		<dir>Expert/113_White-winged Dove</dir>
+		<image>White-winged Dove3.jpg</image>
+		<choices>
+			<option>White-winged Dove</option>
+			<option>Common Ground Dove</option>
+			<option>Inca Dove</option>
+			<option>White-tipped Dove</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Expert</level>
+		<bird>Northern Rough-winged Swallow</bird>
+		<dir>Expert/20_Northern Rough-winged Swallow</dir>
+		<image>B_Swallows - Northern Rough-winged Swallow - 003 - s001 - crop - col.jpg</image>
+		<choices>
+			<option>Northern Rough-winged Swallow</option>
+			<option>Tree Swallow</option>
+			<option>Barn Swallow</option>
+			<option>Bank Swallow</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Expert</level>
+		<bird>Warbling Vireo</bird>
+		<dir>Expert/10_Warbling Vireo</dir>
+		<image>A_Vieros - Warbling Vireo - 002 - s001 - crop - col.jpg</image>
+		<choices>
+			<option>Warbling Vireo</option>
+			<option>Hutton's Vireo</option>
+			<option>Philadelphia Vireo</option>
+			<option>Bell's Vireo</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Expert</level>
+		<bird>Mountain Bluebird</bird>
+		<dir>Expert/108_Mountain Bluebird</dir>
+		<image>Mountain Bluebird2.jpg</image>
+		<choices>
+			<option>Mountain Bluebird</option>
+			<option>Eastern Bluebird</option>
+			<option>Western Bluebird</option>
+			<option>Blue Grosbeak</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Expert</level>
+		<bird>American Dipper</bird>
+		<dir>Expert/112_American Dipper</dir>
+		<image>American Dipper1.jpg</image>
+		<choices>
+			<option>American Dipper</option>
+			<option>Gray Catbird</option>
+			<option>Black Phoebe</option>
+			<option>Gray Jay</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Expert</level>
+		<bird>Common Redpoll</bird>
+		<dir>Expert/101_Common Redpoll</dir>
+		<image>Common Redpoll2.jpg</image>
+		<choices>
+			<option>Common Redpoll</option>
+			<option>Hoary Redpoll</option>
+			<option>Pine Siskin</option>
+			<option>Cassin's Finch</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Advanced</level>
+		<bird>Say's Phoebe</bird>
+		<dir>Advanced/11_Say's Phoebe</dir>
+		<image>E_Tyrant Flycatchers - Say's Phoebe - 002 - s000 - crop - col.jpg</image>
+		<choices>
+			<option>Say's Phoebe</option>
+			<option>Black Phoebe</option>
+			<option>Eastern Phoebe</option>
+			<option>Olive-sided Flycatcher</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Expert</level>
+		<bird>Vesper Sparrow</bird>
+		<dir>Expert/115_Vesper Sparrow</dir>
+		<image>Vesper Sparrow3.jpg</image>
+		<choices>
+			<option>Vesper Sparrow</option>
+			<option>Song Sparrow</option>
+			<option>Lincoln's Sparrow</option>
+			<option>Swamp Sparrow</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Expert</level>
+		<bird>Fox Sparrow</bird>
+		<dir>Expert/05_Fox Sparrow</dir>
+		<image>F_New World Sparrows - Fox Sparrow - 004 - s002 - a - crop - col.jpg</image>
+		<choices>
+			<option>Fox Sparrow</option>
+			<option>Song Sparrow</option>
+			<option>Henslow's Sparrow</option>
+			<option>Sage Sparrow</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Advanced</level>
+		<bird>Bay-breasted Warbler</bird>
+		<dir>Advanced/06_Bay-breasted Warbler</dir>
+		<image>A_Wood-warblers - Bay-breasted Warbler - 002 - s000 - crop - col.jpg</image>
+		<choices>
+			<option>Bay-breasted Warbler</option>
+			<option>Blackburnian Warbler</option>
+			<option>Cape May Warbler</option>
+			<option>Pine Warbler</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Expert</level>
+		<bird>Ruby-crowned Kinglet</bird>
+		<dir>Expert/121_Ruby-crowned Kinglet</dir>
+		<image>Ruby-crowned Kinglet1.jpg</image>
+		<choices>
+			<option>Ruby-crowned Kinglet</option>
+			<option>Golden-crowned Kinglet</option>
+			<option>Hutton's Vireo</option>
+			<option>Cassin's Vireo</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Expert</level>
+		<bird>Louisiana Waterthrush</bird>
+		<dir>Expert/119_Louisiana Waterthrush</dir>
+		<image>Louisiana Waterthrush2.jpg</image>
+		<choices>
+			<option>Louisiana Waterthrush</option>
+			<option>Northern Waterthrush</option>
+			<option>Ovenbird</option>
+			<option>Song Sparrow</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Expert</level>
+		<bird>Hermit Warbler</bird>
+		<dir>Expert/120_Hermit Warbler</dir>
+		<image>Hermit Warbler3.jpg</image>
+		<choices>
+			<option>Hermit Warbler</option>
+			<option>Black-throated Green Warbler</option>
+			<option>Golden-cheeked Warbler</option>
+			<option>Townsend's Warbler</option>
+		</choices>
+	</trial>
+	<trial>
+		<level>Expert</level>
+		<bird>Nashville Warbler</bird>
+		<dir>Expert/04_Nashville Warbler</dir>
+		<image>B_Wood-warblers - Nashville Warbler - 004 - s001 - crop - col.jpg</image>
+		<choices>
+			<option>Nashville Warbler</option>
+			<option>Orange-crowned Warbler</option>
+			<option>Tennessee Warbler</option>
+			<option>Palm Warbler</option>
+		</choices>
+	</trial>
+</experiment>

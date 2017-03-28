@@ -1,0 +1,94 @@
+images/Practice/06_Turkey Vulture/B_Hawks - Turkey Vulture - 013 - s083 - crop - col.jpg
+images/Practice/08_Osprey/B_Hawks - Osprey - 005 - s000 - crop - col.jpg
+images/Practice/04_Canada Goose/B_Ducks - Canada Goose - 004 - s000 - crop - col.jpg
+images/Practice/03_Bald Eagle/B_Hawks - Bald Eagle - 012 - s074 - m - a - crop - col.jpg
+images/Practice/02_Greater Roadrunner/B_Cuckoos - Greater Roadrunner - 002 - s010 - crop - col.jpg
+images/Practice/09_Killdeer/B_Shorebirds - Killdeer - 012 - s086 - crop - col.jpg
+images/Practice/01_Barn Owl/B_Barn-owls - Common Barn-Owl - 094 - s000 - crop - col.jpg
+images/Practice/10_Great Blue Heron/B_Herons - Great Blue Heron - 013 - s085 - crop - col.jpg
+images/Practice/05_Wood Duck/B_Ducks - Wood Duck - 004 - s000 - crop - col.jpg
+images/Intermediate/04_Western Tanager/B_Cardinals and Grosbeaks - Western Tanager - 001 - s000 - crop - col.jpg
+images/Novice/02_Northern Cardinal/B_Cardinals and Grosbeaks - Northern Cardinal - 002 - s000 - crop - col.jpg
+images/Novice/06_American Robin/B_Thrushes - American Robin - 002 - s000 - crop - col.jpg
+images/Beginner/08_American Tree Sparrow/B_New World Sparrows - American Tree Sparrow - 002 - s000 - crop - col.jpg
+images/Novice/03_European Starling/B_Starlings - European Starling - 009 - s000 - crop - col.jpg
+images/Novice/07_American Goldfinch/B_Finches - American Goldfinch  - 002 - s000 - crop - col.jpg
+images/Novice/09_Blue Jay/B_Jays, Magpies, and Crows - Blue Jay - 004 - s000 - crop - col.jpg
+images/Novice/01_Northern Mockingbird/B_Mockingbirds and Thrashers - Northern Mockingbird - 009 - s000 - crop - col.jpg
+images/Novice/10_Rock Pigeon/B_Pigeons and Doves - Rock Pigeon (Rock dove) - 012 - crop - col.jpg
+images/Intermediate/11_Black-billed Magpie/B_Jays, Magpies, and Crows - Black-billed Magpie - 012 - s010 - crop - col.jpg
+images/Beginner/04_Steller's Jay/B_Jays, Magpies, and Crows - Steller's Jay - 002 - s000 - crop - col.jpg
+images/Intermediate/01_Wood Thrush/B_Thrushes - Wood Thrush - 004 - s000 - crop - col.jpg
+images/Intermediate/03_Painted Bunting/B_Cardinals and Grosbeaks - Painted Bunting - 006 - s000 - crop - col.jpg
+images/Beginner/10_Western Scrub Jay/B_Jays, Magpies, and Crows - Western Scrub-Jay - 006 - s001 - crop - col.jpg
+images/Beginner/01_House Finch/B_Finches - House Finch - 006 - s000 - crop - col.jpg
+images/Novice/04_Baltimore Oriole/B_Blackbirds - Baltimore Oriole - 004 - s001 - crop - col.jpg
+images/Beginner/06_Brown-headed Cowbird/B_Blackbirds - Brown-Headed Cowbird - 008 - s000 - crop - col.jpg
+images/Intermediate/05_Cactus Wren/B_Wrens - Cactus Wren - 004 - s005 - crop - col.jpg
+images/Intermediate/07_Clark's Nutcracker/B_Jays, Magpies, and Crows - Clark's Nutcracker - 001 - s001 - crop - col.jpg
+images/Advanced/06_Bay-breasted Warbler/B_Wood-warblers - Bay-breasted Warbler - 004 - s000 - crop - col.jpg
+images/Advanced/15_Summer Tanager/B_Cardinals - Summer Tanager - 002 - s001 - crop - col.jpg
+images/Advanced/01_Blackburnian Warbler/B_Wood-warblers - Blackburnian Warbler - 001 - s000 - crop - col.jpg
+images/Beginner/03_Northern Flicker/B_Woodpeckers - Northern Flicker - 002 - s000 - crop - col.jpg
+images/Advanced/12_Yellow-breasted Chat/B_Wood-warblers - Yellow-breasted Chat - 006 - s000 - crop - col.jpg
+images/Beginner/07_Bushtit/B_Bushtits - Bushtit - 006 - s000 - crop - col.jpg
+images/Intermediate/02_American Redstart/B_Wood-Warblers - American Redstart - 004 - s001 - crop - col.jpg
+images/Advanced/16_Bridled Titmouse/B_Chickadees and Titmice - Bridled Titmouse - 003 - s000 - crop - col.jpg
+images/Advanced/09_Scott's Oriole/B_Blackbirds - Scott's Oriole - 002 - s000 - crop - col.jpg
+images/Intermediate/10_Pileated Woodpecker/B_Woodpeckers - Pileated Woodpecker - 006 - s009 - f - a - spring - crop - col.jpg
+images/Intermediate/08_Cerulean Warbler/B_Wood-Warblers - Cerulean Warbler - 006 - s000 - crop - col.jpg
+images/Beginner/09_Red-winged Blackbird/B_Blackbird - Red-Winged Blackbird - 008 - s002 - m - a - spring - crop - col.jpg
+images/Novice/05_Mourning Dove/B_Pigeons and Doves - Mourning Dove - 006 - s000 - crop - col.jpg
+images/Advanced/05_Bullock's Oriole/B_Blackbirds - Bullock's Oriole - 007 - s000 - crop - col.jpg
+images/Beginner/05_Red-bellied Woodpecker/B_Woodpeckers - Red-Bellied Woodpecker - 006 - s000 - crop - col.jpg
+images/Expert/07_Veery/B_Thrushes - Veery - 004 - s001 - crop - col.jpg
+images/Expert/112_American Dipper/American Dipper2.jpg
+images/Expert/107_Black-and-white Warbler/Black-and-white Warbler2.jpg
+images/Advanced/07_Acorn Woodpecker/B_Woodpeckers - Acorn Woodpecker - 005 - s004 - m - crop - col.jpg
+images/Expert/08_Chipping Sparrow/B_New World Sparrows - Chipping Sparrow - 005 - s000 - crop - col.jpg
+images/Expert/04_Nashville Warbler/B_Wood-warblers - Nashville Warbler - 004 - s001 - crop - col.jpg
+images/Intermediate/12_Belted Kingfisher/B_Kingfisher - Belted Kingfisher - 012 - s010 - crop - col.jpg
+images/Intermediate/09_Great Kiskadee/B_Flycatchers - Kiskadee Flycatcher (Greater Kiskadee) - 009 - s009 - crop - col.jpg
+images/Expert/118_Spotted Towhee/Spotted Towhee2.jpg
+images/Intermediate/14_Vermilion Flycatcher/B_Tyrant Flycatcher - Vermilion Flycatcher - 001 - s000 - crop - col.jpg
+images/Intermediate/15_Blue Grosbeak/B_Cardinals and Grosbeaks - Blue Grosbeak - 002 - s001 - crop - col.jpg
+images/Advanced/08_Indigo Bunting/B_Cardinals and Grosbeaks - Indigo Bunting - 004 - s000 - crop - col.jpg
+images/Expert/108_Mountain Bluebird/Mountain Bluebird2.jpg
+images/Advanced/19_Brown Creeper/B_Creepers - Brown Creeper - 004 - s000 - crop - col.jpg
+images/Expert/101_Common Redpoll/Common Redpoll2.jpg
+images/Expert/05_Fox Sparrow/B_New World Sparrows - Fox Sparrow - 005 - s009 - crop - col.jpg
+images/Advanced/18_Bobolink/B_Blackbirds - Bobolink - 002 - s000 - crop - col.jpg
+images/Expert/18_Eastern Towhee/B_New World Sparrows - Eastern Towhee - 001 - s002 - m - a - fall - crop - col.jpg
+images/Expert/11_Blue-headed Vireo/B_Vireos - Blue-headed Vireo - 001 - s001 - crop - col.jpg
+images/Expert/120_Hermit Warbler/Hermit Warbler2.jpg
+images/Expert/109_White-breasted Nuthatch/White-breasted Nuthatch2.jpg
+images/Expert/13_Golden-fronted Woodpecker/B_Woodpecker - Golden-fronted Woodpecker - 004 - s000 - crop - col.jpg
+images/Expert/10_Warbling Vireo/B_Vieros - Warbling Vireo - 004 - s001 - crop - col.jpg
+images/Expert/01_Townsend's Warbler/B_Wood-warblers - Townsends's Warbler - 002 - s000 - crop - col.jpg
+images/Expert/17_Yellow-bellied Sapsucker/B_Woodpeckers - Yellow-bellied Sapsucker - 003 - s000 - crop - col.jpg
+images/Expert/110_Pygmy Nuthatch/Pygmy Nuthatch2.jpg
+images/Expert/116_Hermit Thrush/Hermit Thrush2.jpg
+images/Advanced/02_Prothonotary Warbler/B_Wood-warblers - Prothonotary Warbler - 002 - s000 - crop - col.jpg
+images/Expert/14_Wilson's Warbler/B_Wood-warblers - Wilson's Warbler - 002 - s001 - crop - col.jpg
+images/Expert/115_Vesper Sparrow/Vesper Sparrow2.jpg
+images/Advanced/11_Say's Phoebe/B_Tyrant Flycatchers - Say's Phoebe - 004 - s000 - crop - col.jpg
+images/Intermediate/06_Phainopepla/B_Silky-Flycatchers - Phainopepla - 003 - s000 - m - a -crop - col.jpg
+images/Expert/06_White-crowned Sparrow/B_Sparrows - White-crowned Sparrow - 003 - s000 - crop - col.jpg
+images/Advanced/13_Common Raven/B_Jays, Magpies, and Crows - Common Raven - 006 - s000 - m - a -crop - col.jpg
+images/Expert/09_Purple Martin/B_Swallows - Purple Martin - 006 - s001 - crop - col.jpg
+images/Intermediate/13_Pyrrhuloxia/B_Cardinals and Grosbeaks - Pyrrhuloxia - 012 - s010 - m - crop - col.jpg
+images/Expert/20_Northern Rough-winged Swallow/B_Swallows - Northern Rough-winged Swallow - 003 - s001 - crop - col.jpg
+images/Expert/104_Evening Grosbeak/Evening Grosbeak2.jpg
+images/Expert/111_Brown-headed Nuthatch/Brown-headed Nuthatch2.jpg
+images/Expert/113_White-winged Dove/White-winged Dove2.jpg
+images/Expert/106_Townsend's Solitaire/Townsend's Solitaire2.jpg
+images/Beginner/02_Carolina Wren/B_Wrens - Carolina Wren - 005 - s000 - crop - col.jpg
+images/Expert/03_Ovenbird/B_Wood-warblers - Ovenbird - 013 - s010 - crop - col.jpg
+images/Expert/102_Verdin/Verdin2.jpg
+images/Expert/119_Louisiana Waterthrush/Louisiana Waterthrush2.jpg
+images/Expert/114_Lawrence's Goldfinch/Lawrence's Goldfinch2.jpg
+images/Expert/103_Canyon Wren/Canyon Wren2.jpg
+images/Expert/105_Varied Thrush/Varied Thrush2.jpg
+images/Expert/121_Ruby-crowned Kinglet/Ruby-crowned Kinglet2.jpg
+images/Expert/19_Western Wood-Pewee/B_Tyrant Flycatchers - Western Wood-Pewee - 004 - s001 - crop - col.jpg
+images/Expert/117_Winter Wren/Winter Wren2.jpg

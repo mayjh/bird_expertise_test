@@ -1,0 +1,94 @@
+1. Turkey Vulture	2. Ferruginous Hawk	3. Parasitic Jaeger	4. Northern Harrier
+1. Crested Caracara	2. Golden Eagle	3. Osprey	4. Ruffed Grouse
+1. Common Loon	2. Brant	3. Sanderling	4. Canada Goose
+1. Broad-winged Hawk	2. Golden Eagle	3. Great Egret	4. Bald Eagle
+1. Greater Roadrunner	2. Northern Bobwhite	3. Black-billed Cuckoo	4. Ruddy Turnstone
+1. Killdeer	2. Herring Gull	3. Willet	4. Piping Plover
+1. Barn Owl	2. Common Poorwill	3. Barred Owl	4. American Bittern
+1. American Avocet	2. Anhinga	3. Great Blue Heron	4. Cattle Egret
+1. Wood Duck	2. Harlequin Duck	3. Bridled Tern	4. Pied-billed Grebe
+1. Varied Bunting	2. Western Tanager	3. Hepatic Tanager	4. Painted Bunting
+1. Painted Bunting	2. Scarlet Tanager	3. Northern Cardinal	4. Mountain Chickadee
+1. Swainson's Thrush	2. American Robin	3. Lazuli Bunting	4. Song Sparrow
+1. Spotted Towhee	2. Western Meadowlark	3. American Tree Sparrow	4. Western Scrub-Jay
+1. Pine Grosbeak	2. Lark Bunting	3. Common Raven	4. European Starling
+1. House Finch	2. American Goldfinch	3. Yellow Grosbeak	4. Summer Tanager
+1. Carolina Wren	2. Blue Jay	3. Clark's Nutcracker	4. Mountain Bluebird
+1. Barn Swallow	2. Northern Mockingbird	3. Brown Thrasher	4. Gray Catbird
+1. Mourning Dove	2. Rock Pigeon	3. Cape May Warbler	4. Least Flycatcher
+1. Lark Bunting	2. Brewer's Blackbird	3. American Crow	4. Black-billed Magpie
+1. Steller's Jay	2. Hermit Warbler	3. Blue Jay	4. Blue Grosbeak
+1. Spragues's Pipit	2. Varied Thrush	3. Wood Thrush	4. American Pipit
+1. Rose-breasted Grosbeak	2. Hooded Oriole	3. Painted Bunting	4. Lazuli Bunting
+1. Indigo Bunting	2. Great Kiskadee	3. Western Scrub Jay	4. Steller's Jay
+1. Common Redpoll	2. Flame-colored Tanager	3. Crissal Thrasher	4. House Finch
+1. Eastern Meadowlark	2. Baltimore Oriole	3. Blackburnian Warbler	4. Black-capped Chickadee
+1. Cape May Warbler	2. Song Sparrow	3. Brown-headed Cowbird	4. Baltimore Oriole
+1. Abert's Towhee	2. Carolina Wren	3. Cactus Wren	4. Fox Sparrow
+1. Clark's Nutcracker	2. Scott's Oriole	3. Bridled Titmouse	4. Pinyon Jay
+1. Bay-breasted Warbler	2. Pine Warbler	3. Blackburnian Warbler	4. Cape May Warbler
+1. Flame-colored Tanager	2. Scarlet Tanager	3. Summer Tanager	4. Hepatic Tanager
+1. Magnolia Warbler	2. Palm Warbler	3. Bay-breasted Warbler	4. Blackburnian Warbler
+1. Brown Thrasher	2. Yellow-bellied Sapsucker	3. House Sparrow	4. Northern Flicker
+1. Mourning Warbler	2. Yellow-breasted Chat	3. Wilson's Warbler	4. Common Yellowthroat
+1. Verdin	2. Bushtit	3. Painted Bunting	4. Swamp Sparrow
+1. American Redstart	2. Ovenbird	3. Altamira Oriole	4. Cape May Warbler
+1. Tufted Titmouse	2. Bridled Titmouse	3. Black-crested Titmouse	4. Mountain Chickadee
+1. Bullock's Oriole	2. Scott's Oriole	3. Audubon's Oriole	4. Orchard Oriole
+1. Black-billed Magpie	2. Pileated Woodpecker	3. Downy Woodpecker	4. Townsend's Solitaire
+1. Collared Whitestart	2. Cerulean Warbler	3. Tropical Parula	4. Black throated Blue Warbler
+1. Red-winged Blackbird	2. Scott's Oriole	3. American Redstart	4. Common Grackle
+1. Lark Sparrow	2. Rock Pigeon	3. Mourning Dove	4. Loggerhead Shrike
+1. Altamira Oriole	2. Audubon's Oriole	3. Baltimore Oriole	4. Bullock's Oriole
+1. Northern Mockingbird	2. Pileated Woodpecker	3. Red-bellied Woodpecker	4. Vermillion Flycatcher
+1. Wood Thrush	2. Hermit Thrush	3. Veery	4. Swainson's Thrush
+1. Black Phoebe	2. Gray Jay	3. American Dipper	4. Gray Catbird
+1. Black-and-white Warbler	2. Brown-headed Nuthatch	3. Red-breasted Nuthatch	4. White-breasted Nuthatch
+1. Red-headed Woodpecker	2. Yellow-bellied Sapsucker	3. Gila Woodpecker	4. Acorn Woodpecker
+1. American Tree Sparrow	2. Chipping Sparrow	3. Clay-colored Sparrow	4. Field Sparrow
+1. Orange-crowned Warbler	2. Palm Warbler	3. Tennessee Warbler	4. Nashville Warbler
+1. Great Crested Flycatcher	2. Phainopepla	3. Belted Kingfisher	4. Bridled Titmouse
+1. Yellow-throated Vireo	2. Brewer's Sparrow	3. Great Kiskadee	4. Say's Phoebe
+1. American Redstart	2. Eastern Towhee	3. Baltimore Oriole	4. Spotted Towhee
+1. Scarlet Tanager	2. Vermilion Flycatcher	3. Say's Phoebe	4. Great Kiskadee
+1. Blue Jay	2. Blue Grosbeak	3. Cerulean Warbler	4. Indigo Bunting
+1. Indigo Bunting	2. Lazuli Bunting	3. Blue Grosbeak	4. Eastern Bluebird
+1. Eastern Bluebird	2. Western Bluebird	3. Mountain Bluebird	4. Blue Grosbeak
+1. Canyon Wren	2. Bewick's Wren	3. Cactus Wren	4. Brown Creeper
+1. Common Redpoll	2. Hoary Redpoll	3. Cassin's Finch	4. Pine Siskin
+1. Henslow's Sparrow	2. Song Sparrow	3. Sage Sparrow	4. Fox Sparrow
+1. Eastern Meadowlark	2. Bobolink	3. Yellow-headed Blackbird	4. Lark Bunting
+1. Eastern Towhee	2. Lark Sparrow	3. Spotted Towhee	4. Black-headed Grosbeak
+1. Hutton's Vireo	2. Warbling Vireo	3. Blue-headed Vireo	4. Cassin's Vireo
+1. Townsend's Warbler	2. Golden-cheeked Warbler	3. Hermit Warbler	4. Black-throated Green Warbler
+1. Pygmy Nuthatch	2. Tufted Titmouse	3. White-breasted Nuthatch	4. Carolina Chickadee
+1. Golden-fronted Woodpecker	2. Red-bellied Woodpecker	3. Gila Woodpecker	4. Red-headed Woodpecker
+1. Bell's Vireo	2. Philadelphia Vireo	3. Hutton's Vireo	4. Warbling Vireo
+1. Magnolia Warbler	2. Blackburnian Warbler	3. Townsend's Warbler	4. Black-throated Green Warbler
+1. Golden-fronted Woodpecker	2. Yellow-bellied Sapsucker	3. Ladder-backed Woodpecker	4. Red-Naped Sapsucker
+1. Bushtit	2. Brown-headed Nuthatch	3. Pygmy Nuthatch	4. White-breasted Nuthatch
+1. Hermit Thrush	2. Wood Thrush	3. Veery	4. Swainson's Thrush
+1. Prothonotary Warbler	2. Wilson's Warbler	3. Prairie Warbler	4. Yellow Warbler
+1. Wilson's Warbler	2. Yellow Warbler	3. Common Yellowthroat	4. Hooded Warbler
+1. Swamp Sparrow	2. Lincoln's Sparrow	3. Song Sparrow	4. Vesper Sparrow
+1. Say's Phoebe	2. Black Phoebe	3. Olive-sided Flycatcher	4. Eastern Phoebe
+1. Northern Cardinal	2. Cedar Waxwing	3. Pyrrhuloxia	4. Phainopepla
+1. White-crowned Sparrow	2. Swamp Sparrow	3. White-throated Sparrow	4. Song Sparrow
+1. Fish Crow	2. American Crow	3. Gray Jay	4. Common Raven
+1. Barn Swallow	2. Common Grackle	3. Tree Swallow	4. Purple Martin
+1. Scarlet Tanager	2. Northern Cardinal	3. Pyrrhuloxia	4. Bobolink
+1. Northern Rough-winged Swallow	2. Barn Swallow	3. Tree Swallow	4. Bank Swallow
+1. American Goldfinch	2. Evening Grosbeak	3. Purple Finch	4. Pine Grosbeak
+1. Brown Creeper	2. Pygmy Nuthatch	3. Red-breasted Nuthatch	4. Brown-headed Nuthatch
+1. White-tipped Dove	2. Inca Dove	3. Common Ground Dove	4. White-winged Dove
+1. Gray-cheeked Thrush	2. Townsend's Solitaire	3. Northern Shrike	4. Mountain bluebird
+1. Ovenbird	2. Carolina Wren	3. Cactus Wren	4. Tufted Titmouse
+1. Lark Sparrow	2. Ovenbird	3. Louisiana Waterthrush	4. Northern Waterthrush
+1. Bushtit	2. Lucy's Warbler	3. Verdin	4. Blue-gray Gnatcatchers
+1. Northern Waterthrush	2. Ovenbird	3. Song Sparrow	4. Louisiana Waterthrush
+1. Evening Grosbeak	2. American Goldfinch	3. Lawrence's Goldfinch	4. Lesser Goldfinch
+1. Canyon Wren	2. Winter Wren	3. Sedge Wren	4. Rock Wren
+1. Veery	2. Varied Thrush	3. Swainson's Thrush	4. American Robin
+1. Hutton's Vireo	2. Ruby-crowned Kinglet	3. Golden-crowned Kinglet	4. Cassin's Vireo
+1. Eastern Phoebe	2. Western Wood-Pewee	3. Greater Pewee	4. Olive-sided Flycatcher
+1. Winter Wren	2. Marsh Wren	3. House Wren	4. Bewick's Wren
